@@ -1,1 +1,1 @@
-# vanillajs-counter-app
+# vanillajs-counter-app (under development 👩‍💻💻)
